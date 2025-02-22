@@ -10,7 +10,7 @@ body {
 }
 
 .section1{
-    background-image: url('../ImagenesF/fondoAzul.png');
+    background-image: url('ImagenesF/fondoAzul.png');
     background-size: cover; /* Ajusta la imagen al tamaño del div */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -208,7 +208,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url('../ImagenesF/fondoAzul.png');
+    background-image: url('ImagenesF/fondoAzul.png');
     background-size: cover; /* Ajusta la imagen al tamaño del div */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
